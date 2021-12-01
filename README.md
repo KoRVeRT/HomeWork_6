@@ -10,7 +10,7 @@
 
 или
 
-`mvn clean install` - выполнить в корневой папке приложения (book-store или book-discount)
+`mvn clean install` - выполнить в корневой папке приложения
 
 `cd target` - перейти в папку target
 
